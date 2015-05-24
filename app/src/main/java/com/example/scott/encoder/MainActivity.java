@@ -272,7 +272,7 @@ public class MainActivity extends ActionBarActivity {
             }
             else if(messageArray[i].equals("h") || messageArray[i].equals("H"))
             {
-                messageArray[i] = " ";
+                messageArray[i] = "h";
             }
         }
 
